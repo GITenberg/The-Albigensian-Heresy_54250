@@ -1,11 +1,16 @@
 _repo: The-Albigensian-Heresy_54250
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54250-h/images/cover.jpg
 creator:
   author:
     agent_name: Warner, Henry James
     gutenberg_agent_id: '47786'
     url: http://www.gutenberg.org/2009/agents/47786
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54250#The-Albigensian-Heresy
 gutenberg_issued: '2017-02-27'
 gutenberg_type: Text
 identifiers:
